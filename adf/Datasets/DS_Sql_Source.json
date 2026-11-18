@@ -1,0 +1,12 @@
+{
+	"name": "DS_Sql_Source",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabaseMithran",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}
